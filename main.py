@@ -34,7 +34,7 @@ dash_icon = pygame.transform.scale(dash_icon, (50, 50))
 
 # Создание окна
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Progressive Room Game")
+pygame.display.set_caption("...")
 clock = pygame.time.Clock()
 
 # Оружие
